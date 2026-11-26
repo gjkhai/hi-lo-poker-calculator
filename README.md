@@ -1,1 +1,1 @@
-[Online Calculator](https://gjkhai.github.io/hi-lo-poker-calculator/)
+[Click here - Online Calculator](https://gjkhai.github.io/hi-lo-poker-calculator/)
